@@ -12,3 +12,5 @@
 *.wiely.com
 *.springer.com
 *.sciencedirect.com
+*.scitation.org
+*.rsc.org
