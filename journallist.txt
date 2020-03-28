@@ -15,3 +15,4 @@
 *.scitation.org
 *.rsc.org
 *.webofknowledge.com
+*.cas.org
