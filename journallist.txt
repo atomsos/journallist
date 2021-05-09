@@ -1,19 +1,14 @@
-[SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 3/31/2020
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
-
-*.cell.com
-*.nature.com
-*.sciencemag.com
-*.aip.org
-*.aps.org
-*.acs.org
-*.wiley.com
-*.springer.com
-*.sciencedirect.com
-*.scitation.org
-*.rsc.org
-*.webofknowledge.com
-*.cas.org
-*.worldscientific.com
+||cell.com
+||nature.com
+||sciencemag.com
+||aip.org
+||aps.org
+||acs.org
+||wiley.com
+||springer.com
+||sciencedirect.com
+||scitation.org
+||rsc.org
+||webofknowledge.com
+||cas.org
+||worldscientific.com
