@@ -1,4 +1,3 @@
-# https://github.com/atomsos/journallist/edit/master/journallist.txt
 .cell.com
 .nature.com
 .sciencemag.org
