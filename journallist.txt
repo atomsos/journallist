@@ -1,3 +1,4 @@
+# https://github.com/atomsos/journallist/edit/master/journallist.txt
 .cell.com
 .nature.com
 .sciencemag.org
@@ -16,3 +17,4 @@
 .worldcat.org
 .cnki.net
 .science.org
+.elsevier.com
