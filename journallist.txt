@@ -17,3 +17,5 @@
 .cnki.net
 .science.org
 .elsevier.com
+.reaxys.com
+.cas.org
