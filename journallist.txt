@@ -19,3 +19,4 @@
 .elsevier.com
 .reaxys.com
 .cas.org
+.sciencedirectassets.com
