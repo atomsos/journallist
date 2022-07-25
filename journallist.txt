@@ -20,3 +20,7 @@
 .reaxys.com
 .cas.org
 .sciencedirectassets.com
+.reaxys.com
+.cas.org
+.jstor.org
+.wanfangdata.com.cn
